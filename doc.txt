@@ -1,0 +1,4 @@
+1. Do not mention public/pathname always remove "public".
+2. All statics file means all requested file will be fetched from public folder.
+
+3. dynamic routing --> so that we dont have to create each and every route
